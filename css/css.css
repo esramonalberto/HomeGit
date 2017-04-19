@@ -17,6 +17,8 @@ body {
 .btn:hover 
 {
 	transform: scale(1.2);
+	letter-spacing: 3px;
+	color: white;
 }
 
 h1 
@@ -30,5 +32,54 @@ h1
 {
 	background-color: #141419;
 	color: white;
-	padding: 20px;
+	padding: 5px;
 }
+
+.info h2 
+{
+	font-size: 40px;
+	margin: 0;
+	text-align: center;
+}
+
+.infoContent 
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	text-align: center;
+}
+
+.infoContent .block h3
+{
+	font-size: 25px;
+	margin: 5px 0 10px 0;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	
+}
+
+.infoContent .block
+{
+	padding: 3px;
+	width: 200px;
+}
+
+p 
+{
+	font-weight: 300;
+}
+
+.content 
+{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
