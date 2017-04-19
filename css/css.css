@@ -18,3 +18,17 @@ body {
 {
 	transform: scale(1.2);
 }
+
+h1 
+{
+	color: #1520D7;
+	font-size: 50px !important;
+	text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
+}
+
+.info
+{
+	background-color: #141419;
+	color: white;
+	padding: 20px;
+}
