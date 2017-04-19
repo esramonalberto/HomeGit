@@ -1,0 +1,17 @@
+commit 046911010bcaaa354b3af43ccd3d90261e31ee1a
+Author: Ramon Alberto <esramonalberto@gmail.com>
+Date:   Wed Apr 19 01:51:04 2017 -0400
+
+    Agregue el Telefono
+
+commit 79d57193b9a36ff467fbe4c18a56932a46d10155
+Author: Ramon Alberto <esramonalberto@gmail.com>
+Date:   Wed Apr 19 01:50:07 2017 -0400
+
+    Ultimo Cambio
+
+commit 31d0f43b3dfa603b7e5e7327461cad0cdfbe007b
+Author: Ramon Alberto <esramonalberto@gmail.com>
+Date:   Wed Apr 19 00:27:52 2017 -0400
+
+    Iniciemos
